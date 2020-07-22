@@ -9,7 +9,9 @@ The interface is designed to work with Python 3 and these packages:
 - Tensorflow 2.2.0
 - Tqdm 4.48.0
 
-For that you might type in the command line:
+It can work with other versions of these packages but it was not tested.
+
+To install them you might type in the command line:
 
 pip3 install pygame==2.0.0.dev6 numpy==1.19.1 matplotlib==3.3.0 tensorflow==2.2.0 tqdm==4.48.0
 
