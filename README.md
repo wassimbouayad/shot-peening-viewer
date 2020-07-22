@@ -2,14 +2,14 @@
 
 ## Configuration
 
-The interface is designed to work with Python 3 and these packages:
+The interface is designed to work with Python 3.7.6 and these packages:
 - Pygame 2.0.0.dev6
 - Numpy 1.19.1
 - Matplotlib 3.3.0
 - Tensorflow 2.2.0
 - Tqdm 4.48.0
 
-It can work with other versions of these packages but it was not tested.
+It can work with different versions but it was not tested.
 
 To install them you might type in the command line:
 
